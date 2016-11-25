@@ -1,1 +1,0 @@
-download data: 2010.12.17
